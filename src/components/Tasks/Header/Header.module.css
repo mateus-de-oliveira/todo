@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+    margin-bottom: 1.5rem;
+}
+
+.header--section {
+    display: flex;
+    align-items: center;
+}
+
+.header--title {
+    margin-right: 0.5rem;
+    font-weight: bold;
+}
+
+.header--title__created {
+    color: var(--blue);
+}
+
+.header--title__done {
+    color: var(--purple);
+}

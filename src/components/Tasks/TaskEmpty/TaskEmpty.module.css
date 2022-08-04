@@ -1,0 +1,20 @@
+.taskEmpty--box {
+    max-height: 18rem;
+    border-top: 1px solid #333333;
+    border-radius: 0.5rem;
+    margin-top: 1.56rem;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+    color: var(--gray-300);
+}
+
+.taskEmpty--image {
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+}
+
+.taskEmpty--title__secondary {
+    font-weight: normal;
+    display: block;    
+}
